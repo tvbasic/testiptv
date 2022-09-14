@@ -72,11 +72,6 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/T
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?id=4
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dd600869fd5f4bfee286825f6d778b10:eb5b83acbbd79af479a00db92935a34b
-#EXTINF:-1 tvg-id="122" tvg-name="TVS" group-title="Malaysia: TV BASIC" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",122 TVS 
-https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
-
 #EXTINF:-1 tvg-id="114" tvg-name="IKIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Radio_IKIM.png" group-title="Malaysia: TV BASIC",IKIM
 http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
 
