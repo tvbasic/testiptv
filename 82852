@@ -81,3 +81,36 @@ http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
 
 
+
+
+
+--------------------- RADIO -----------------------
+
+
+
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.manis.fm/web/media/2018/01/manisfm-player-300x300.png" group-title="Radio", Manis FM
+http://ingest2.husa.rastream.com/husa-manis
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.mytuner.mobi/media/radios/whb4utLhtp.png" group-title="Radio", Era FM
+http://astro2.rastream.com/era
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.mytuner.mobi/media/radios/U64mECYBuK.jpg" group-title="Radio", Hitz FM
+http://astro2.rastream.com/hitz
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.mytuner.mobi/media/radios/cyqqphe6KP.png" group-title="Radio", Hot FM
+http://mediaprima.rastream.com/mediaprima-hotfm?awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Amediaprima-hotfm&playerid=Hot%20FM_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE0NzkxMDQyNzY1MDUsImV4cCI6M
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.mytuner.mobi/media/radios/MFvmSRmJDc.jpg" group-title="Radio", Suria FM
+http://starrfm.rastream.com/starrfm-suria.android
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.mytuner.mobi/media/radios/6WpzDY2yrH.jpg" group-title="Radio", Sinar FM
+http://astro2.rastream.com/sinar
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.mytuner.mobi/media/radios/aYVbJaEnPR.png" group-title="Radio", Thr Gegar
+http://astro2.rastream.com/gegar
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.astroawani.com/images/stdastro_300x250_arena_1.jpg" group-title="Radio", ARENA FM
+http://astro1.rastream.com/amp-arena
+
+
